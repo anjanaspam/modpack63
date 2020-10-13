@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.text_index_translations=true,update_synch=true" audit="true" create_roles="admin" extends="sys_metadata" label="Access Control" max_length="40" name="sys_security_acl" sizeclass="10198" text_index="true" type="collection">
+        <element label="Pattu" max_length="40" name="pattu" type="string"/>
+    </element>
+</database>
